@@ -1,9 +1,8 @@
-package com.mycompany.app;
+  GNU nano 3.2                                                                             New Buffer                     
 
 public class App {
 	
 public static void main(String[] args) {
-System.out.println("Ejecutando codigo de prueba con el numero 17");
 int num = 17;
 paridad(num);
 num_digitos(num);
